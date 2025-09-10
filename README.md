@@ -43,7 +43,7 @@ The analysis focuses on understanding financial behavior across different **demo
 ---
 
 ## 🛠️ Tools & Libraries
-- Python 3.x  
+- Python 3.12.3  
 - Pandas  
 - NumPy  
 - Matplotlib  
